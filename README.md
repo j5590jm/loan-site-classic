@@ -1,1 +1,1 @@
-Improve snapshot readability
+Improve snapshot 
